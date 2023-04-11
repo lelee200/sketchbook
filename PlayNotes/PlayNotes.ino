@@ -185,9 +185,9 @@ const Note Shark[] = {
 };
 
 const Note *Melodies[] = {
-  //Shark,
-  //Beer,
-  //Bus,
+  Shark,
+  Beer,
+  Bus,
   Cucaracha,
   Cookie,
 }; 
